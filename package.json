@@ -7,7 +7,7 @@
     "monitorar": "bin/app.js"
   },
   "scripts": {
-    "start": "node bin/monitorar.js"
+    "start": "node bin/app.js"
   },
   "author": "yuran nhassengo",
   "license": "ISC"

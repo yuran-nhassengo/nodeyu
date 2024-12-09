@@ -3,6 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
+// Quem sabe
 // Função para monitorar o diretório recursivamente
 function watchDirectoryRecursive(directoryPath) {
   // Monitorando alterações no diretório atual
