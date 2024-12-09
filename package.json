@@ -2,9 +2,12 @@
   "name": "nodeyu",
   "version": "1.0.0",
   "description": "Um programa para monitorar arquivos e directorios",
-  "main": "index.js",
+  "main": "bin/app.js",
+  "bin": {
+    "monitorar": "bin/app.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bin/monitorar.js"
   },
   "author": "yuran nhassengo",
   "license": "ISC"
