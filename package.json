@@ -1,0 +1,11 @@
+{
+  "name": "nodeyu",
+  "version": "1.0.0",
+  "description": "Um programa para monitorar arquivos e directorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuran nhassengo",
+  "license": "ISC"
+}
